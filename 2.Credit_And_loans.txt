@@ -1,0 +1,91 @@
+
+Credit Score:
+
+ Credit bureaus:
+
+    Credit bureaus in India are institutions that collect, maintain, and analyze individuals' and businesses' credit-related data.
+    They generate credit reports and assign credit scores, which are used by banks and financial institutions to evaluate a borrower's creditworthiness before approving loans or credit cards.
+
+    Top Credit Bureaus in India:
+
+      1. CIBIL (Credit Information Bureau India Limited)
+      2. Experian India
+      3. Equifax India
+      4. CRIF High Mark (CRIF score)
+
+      [ All this bureaus credit score range: 300 to 900. CIBIL is the mostly used in India. ]
+      [ 750 - 800 is considered as Good. 800 - 900 is considered as Excellent. ]
+
+ 5 main factors:-
+
+   1. On time payments 
+
+   2. Credit utilization (it should be below 30%. 30% is ideal but below 10% is even better.)
+
+   3. Enquiries (when a banking agency or financial institutions makes a inquiry on your credit report, it temporarily lower your credit score.)
+
+   4. Credit-age ( minimum 5 years of credit age is best. Above 2 years is average. Credit age is the maximum time of a credit account since it opened. )
+
+   5. Credit -mix ( it means maintaining different types of credit accounts like credit cards, personal loan and installment loans( mortgage loans, student loan, vehicle loan etc..) )
+
+[ Note:- credit cards are the best option to increase credit score.If banks are not providing credit cards or if you are applying first time with no credit history, then you can apply for secured credit cards means credit cards against FD.]
+
+
+---> when ever an enquiry is done by lenders 2-4 credit points drop in credit score.
+---> when ever you take a loan credit score drops by few points.
+
+=========================================================================================================================================
+
+
+
+Loans:
+
+
+  secured loans:
+
+    [ Secured loans are loans that are backed by collateral — an asset that the borrower pledges to the lender as security for the loan.
+     If the borrower fails to repay, the lender has the legal right to seize the collateral to recover their money. ]
+
+      1. Gold loan 
+          --> collateral = Gold
+          --> loan amount is 60-80% of gold value
+          --> it takes less processing time
+
+      2. Home loan 
+          --> collateral = Land/home Property [ property will be under lender until the borrower repays it.]
+          --> loan amount is  75-90% of the property's market value
+          --> it takes 1-3 weeks for processing
+
+      3. Loan Against Property(LAP) / Mortgage(thanaka) Loan
+          --> collateral = property(land, shop, house etc..)
+          --> loan amount is 50-75% of the property’s current market value
+          --> it takes 1-2 or 1-3 weeks for processing
+
+          steps for LAP/Home loan[ Almost same for both loans]
+              1. Application submission
+              2. Eligibility checks (like income level, credit score etc..)
+              3. property document verification
+              4. legal verification of documents
+              5. valuation checks (like property value checking )
+              6. credit appraisal and sanction ( talks with lender about loan amount, EMI, tenure etc..)
+              7. signing loan agreement
+              8. property mortgage creation ( officially mortgaged in favour of lender.)
+              9. loan disbursement (credit of loan amount to the borrower)
+
+      4. vehicle loan
+          --> collateral = vehicle [ lender holds the ownership of vehicle until the borrower repays it.]
+          --> loan amount is up to 90–100% of on-road price
+          --> 1–5 working days
+
+      5. Loan Against FD
+          --> collateral = FD
+          --> loan amount is 90% of the FD
+          --> processing time is very fast, maximum within 1 day or few hours
+          --> tenure is upto the maturity period of the FD
+
+  unsecured loans:
+      
+      1. Personal Loan
+      2. Business Loan (MUDRA Loan, SIDBI Loan and CGTMSE Loan)
+
+

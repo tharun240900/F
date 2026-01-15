@@ -1,0 +1,38 @@
+
+Land Registration:
+-----------------
+
+CHECKS:
+
+1) Title Deed and sale Deed verification
+
+    Title Deed = Proof of ownership.
+
+    Types of deeds
+       -> sale Deed
+       -> gift Deed
+       -> Will Deed
+       -> Partition Deed
+       -> Exchange Deed
+       -> Mortgage Deed
+       -> Power of Attorney Deed
+
+2) Encumbrance Certificate (EC)
+
+3) Mutation
+
+4) CLU approval / Non-Agriculture Land approval 
+
+5) PTCL endorsement
+
+
+
+    
+
+
+
+
+
+
+
+

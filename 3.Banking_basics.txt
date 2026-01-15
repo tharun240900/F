@@ -1,0 +1,18 @@
+
+Types of Fund transfer:
+----------------------
+
+1) RTGS (Real-Time Gross Settlement)
+
+        --> 
+
+2) NEFT (National Electronic Funds Transfer)
+
+3) IMPS (Immediate Payment Service)
+
+4) UPI (Unified Payments Interface)
+
+5) Card transfer
+
+6) Cheque transfer
+

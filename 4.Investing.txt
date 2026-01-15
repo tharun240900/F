@@ -1,0 +1,26 @@
+1) banking investments 
+   -------------------
+
+   Fixed deposits (FD)      // this deposits are opened/paid at once and interest is earned at different 
+                               frequency like monthly, quaterly, halfyearly and yearly.
+    
+    amount at maturity(T) = principle (P) * [1 + (rate of interest)/100]
+
+
+   Recurring deposits (RD)  // this deposits are opened once and paid monthly like SIP. But the 
+                               ( interest + principle ) is paid to the user at maturity.
+
+
+2) commodities investments
+   -----------------------
+
+   commodities mean = tradable basic goods with uniform quality
+   Metal commodities : Gold, Silver, Copper, Aluminium
+
+   *** We can invest in commodities by buying them or through ETF bonds.
+
+3) stock and MF investments
+   ------------------------
+
+4) land investments   
+
