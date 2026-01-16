@@ -89,3 +89,8 @@ Loans:
       2. Business Loan (MUDRA Loan, SIDBI Loan and CGTMSE Loan)
 
 
+[ Note: Even OD(OverDraft) also comes under loan, it might be secured or unsecured. ]
+
+
+
+************************************ DONE *************************************************
