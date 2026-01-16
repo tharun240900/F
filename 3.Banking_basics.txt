@@ -18,6 +18,65 @@ Types of Fund transfer:
 
 
 
+
+
+
+
+
+
+
+Types of interest rates in bank:
+-------------------------------
+
+1) Simple interest
+        --> Interest is calculated only on the principal amount.
+
+2) Compound interest
+        --> Interest is calculated on principal + previously earned interest.
+
+3) Flat interest 
+        --> A flat interest rate is a method of calculating interest on the original principal amount for the entire loan tenure.
+        --> Ex:- gold loans
+
+3) Floating(Variable) interest
+        --> Interest rate changes with RBI benchmarks.
+            linked to : MCLR
+                        EBLR
+4) Fixed interest
+        -->Interest rate remains constant throughout the tenure.
+
+6) Reducing interest (BEST)
+        --> Interest is calculated on the outstanding loan balance, not the original amount.
+        --> This is like a pattern which follows interest rates like (Floating interest) or (Fixed interest) rate.
+
+
+what is MCLR and EBLR:
+---------------------
+
+MCLR - Marginal Cost of Funds based Lending Rate
+
+        --> MCLR is the minimum interest rate below which a bank cannot lend
+        --> Loan Interest Rate = MCLR + Spread
+
+EBLR – External Benchmark Lending Rate
+
+        --> EBLR links your loan directly to an external benchmark, most commonly: RBI Repo Rate
+        --> Loan Interest Rate = Repo Rate + Spread
+        --> Rate resets every 3 months
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Banking calculations:
 --------------------
 
