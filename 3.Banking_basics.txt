@@ -47,8 +47,26 @@ simple interest calculation:
 
 compound interest calculation:
 
-                             
+    1)  T = P(1+r)^t      [ This formula is used when compound happens every year. ]
 
+        P (Principle amount)
+        r (Rate in percentage)
+        t (Tenure in years) [ Note: Tenure only be in years]   
+
+        Ex:-
+                T = 1,00,000 * (1+0.18)^3
+                T = 1,64,303    
+
+    2)  A = P * (1+r)^y * [1+{(r×m)/12}]                         
+
+        P (Principle amount)
+        r (Rate in percentage)
+        y (Tenure in years) [ Note: Tenure only be in years] 
+        m (Tenure in months) [ Note: only months. suppose total Tenure is 2 years 4 months, then mention the years in y and months in m]  
+
+        Ex:- 
+                A = 1,00,000 * (1+0.18)^2 * [1+{(0.18*4)/12}]
+                A = 1,47,594.4
 
 
 How to convert ruppes interest rate to percentage and vice-versa:
