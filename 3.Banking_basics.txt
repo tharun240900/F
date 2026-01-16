@@ -16,3 +16,54 @@ Types of Fund transfer:
 
 6) Cheque transfer
 
+
+
+Banking calculations:
+--------------------
+
+simple interest calculation:
+
+        PTR/100 ----> this is the formula to calculate the interest 
+
+                P (Principle amount)
+                T (Tenure in months)
+                R (Rate of interest in ruppes)
+
+                Ex:- p = 1,00,000
+                     T = 12 months
+                     R = 2
+
+                     interest = (1,00,000*12*2)/100 => 24,000
+
+        PTR/1200 ---> this is used to calculate interest in percentage
+
+                R (Rate of interest in percentage)        
+
+                Ex:- p = 1,00,000
+                     T = 12 months
+                     R = 24%
+
+                     interest = (1,00,000*12*24)/1200 => 24,000
+
+compound interest calculation:
+
+                             
+
+
+
+How to convert ruppes interest rate to percentage and vice-versa:
+----------------------------------------------------------------
+
+to percentage --> 2 * 12 => 24%
+                  3 * 12 => 36%
+                0.5 * 12 =>  6%
+                  1 * 12 => 12%
+ [ Just multiple the ruppes rate with 12, then we get the rate in percentage]
+
+to ruppe rate --> 24 / 12 => 2
+                  36 / 12 => 3
+                   6 / 12 => 0.5
+                  12 / 12 => 1
+ [ Just multiple the ruppes rate with 12, then we get the rate in percentage]  
+
+ tricks to remember ---> 6% <==> 0.5                
