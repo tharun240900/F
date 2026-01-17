@@ -3,18 +3,37 @@ Types of Fund transfer:
 ----------------------
 
 1) RTGS (Real-Time Gross Settlement)
+        --> minimum: 2 lakhs, maximum: no upper ceiling/depends upon bank
+        --> Settlement: instant
+        --> Mode: online and offline
+        --> works 24/7
+        --> charges: online(free), offline(GST applies) // some banks might differ
 
-        --> 
 
 2) NEFT (National Electronic Funds Transfer)
+        --> NEFT system queues all transaction requests received in that period.
+            Every 30 minutes, RBI’s settlement system processes all queued transactions.
+        --> minimum: 1 rupee, maximum: no upper ceiling/depends upon bank
+        --> Settlement: 30 minutes
+        --> Mode: online and offline
+        --> works 24/7
+        --> charges: online(free), offline(GST applies) // some banks might differ
+
 
 3) IMPS (Immediate Payment Service)
+        --> limit: It depends upon bank
+        --> Settlement: instant
+        --> Mode: online
+        --> works 24/7
+        --> charges: online(free), offline(GST applies) // some banks might differ
 
 4) UPI (Unified Payments Interface)
+        --> This is a mobile based Payment system
+        --> limit: 1-5,00,000/- 
+        --> settlement: instant
+        --> works: 24/7
 
-5) Card transfer
-
-6) Cheque transfer
+[ Note: NEFT, RTGS are managed by RBI and UPI, IMPS are managed by NPCI.]
 
 
 
